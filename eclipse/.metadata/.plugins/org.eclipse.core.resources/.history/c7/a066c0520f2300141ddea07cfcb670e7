@@ -1,0 +1,12 @@
+package tutorial.DMAexample.MyItems;
+
+import net.minecraft.item.ItemAxe;
+import net.minecraft.item.ItemBow;
+import net.minecraft.item.ItemSword;
+
+public class Colt_Navy extends ItemBow
+{
+public Colt_Navy() {
+		super();
+	}
+}

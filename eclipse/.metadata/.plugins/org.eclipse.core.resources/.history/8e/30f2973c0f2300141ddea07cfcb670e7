@@ -1,0 +1,15 @@
+package tutorial.DMAexample.MyItems;
+
+import net.minecraft.item.ItemSword;
+import net.minecraft.item.Item.ToolMaterial;
+
+public class Colt_Navy {
+
+}
+public class Colt_Navy extends ItemSword
+{
+public CustomSword(ToolMaterial material)
+{
+super(material);
+}
+}

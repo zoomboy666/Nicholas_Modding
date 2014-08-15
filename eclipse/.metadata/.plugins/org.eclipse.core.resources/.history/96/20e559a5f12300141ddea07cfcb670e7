@@ -1,0 +1,7 @@
+package tutorial.DMAexample;
+
+import net.minecraft.item.Item;
+
+public class Henry_repeting_rifle extends Item {
+
+}

@@ -1,0 +1,14 @@
+package tutorial.DMAexample;
+
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.Item;
+
+public class Colt45 extends CreativeTabs {
+
+	@Override
+	public Item getTabIconItem() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
